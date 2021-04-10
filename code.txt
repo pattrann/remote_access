@@ -1,1 +1,1 @@
-echo it works!
+echo it works! > /home/patt/remote_acess/log.txt
