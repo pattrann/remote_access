@@ -1,3 +1,1 @@
-default via 192.168.10.227 dev wlan0 proto dhcp src 192.168.10.42 metric 600 
-192.168.10.0/24 dev wlan0 proto kernel scope link src 192.168.10.42 
-192.168.10.227 dev wlan0 proto dhcp scope link src 192.168.10.42 metric 600 
+gitting
