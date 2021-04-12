@@ -1,1 +1,0 @@
-echo remote log > /home/patt/remote_acess/log.txt
